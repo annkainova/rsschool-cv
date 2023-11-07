@@ -2,12 +2,10 @@
 
 ## Contact Information
 
-[Telegram: annkainova][Тег1]
-[Тег1][https://t.me/annkainova]
-[GitHub: annkainova][Тег2]
-[Тег2][https://github.com/annkainova]
-Discord: amilisa
-Email: cainowa@gmail.com
+[Telegram: annkainova](https://t.me/annkainova)
+[GitHub: annkainova](https://github.com/annkainova)
+[Discord: amilisa](https://discordapp.com/users/256080205037174785/)
+[Email: cainowa@gmail.com](cainowa@gmail.com)
 
 ## About me
 
@@ -39,7 +37,7 @@ function explode(number) {
 2. Fundamentals of JavaScript Programming
 3. Vologda State University of Industrial and Civil Engineering
 
-## English Language
+## Languages 
 
 - English level is B1
 - Russian fluently
