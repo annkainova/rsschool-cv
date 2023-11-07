@@ -2,9 +2,9 @@
 
 ## Contact Information
 
-- [Telegram: annkainova](https://t.me/annkainova)
-- [GitHub: annkainova](https://github.com/annkainova)
-- [Discord: amilisa](https://discordapp.com/users/256080205037174785/)
+- Telegram: [annkainova](https://t.me/annkainova)
+- GitHub: [annkainova](https://github.com/annkainova)
+- Discord: [amilisa](https://discordapp.com/users/256080205037174785/)
 - Email: cainowa@gmail.com
 
 ## About me
